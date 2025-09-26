@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Buzdolabı",
+    "color": "Beyaz",
+    "price": 1500,
+    "discount": true,
+    "img": "buzdolabı.jpg"
+  },
+  {
+    "id": 2,
+    "name": "iPhone 15 Pro",
+    "color": "Mor",
+    "price": 1500,
+    "discount": true,
+    "img": "iphone.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Televizyon",
+    "color": "Siyah",
+    "price": 1200,
+    "discount": true,
+    "img": "televizyon.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Erkek Mont",
+    "color": "Yeşil",
+    "price": 500,
+    "discount": true,
+    "img": "mont.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Koltuk",
+    "color": "Gri",
+    "price": 730,
+    "discount": false,
+    "img": "koltuk.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Xiaomi 12",
+    "color": "Mavi",
+    "price": 398,
+    "discount": true,
+    "img": "xiaomi.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Bebek Bezi",
+    "color": "Beyaz",
+    "price": 30,
+    "discount": true,
+    "img": "bebek-bezi.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Deterjan",
+    "color": "Beyaz",
+    "price": 15,
+    "discount": false,
+    "img": "deterjan.jpg"
+  }
+]
