@@ -1,12 +1,27 @@
-# React + Vite
+Shopping Site
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+React ve Tailwind CSS kullanılarak geliştirilmiş basit bir sanal market sitesi.  
+Ürün listeleme, kategori gösterimi ve modern bir arayüz içerir.
 
-Currently, two official plugins are available:
+Özellikler
+- Responsive tasarım (mobil ve masaüstü uyumlu)
+- Ürün listeleme kartları
+- Kategori ve banner alanları
+- Footer ve header bileşenleri
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Kullanılan Teknolojiler
+- React
+- Tailwind CSS
 
-## Expanding the ESLint configuration
+Kurulum
+1. Node.js bilgisayarınızda yüklü olmalıdır.  
+2. Projeyi klonlayın:  
+   git clone https://github.com/berketgc/shopping-site.git  
+3. Proje klasörüne girin:  
+   cd shopping-site  
+4. Gerekli paketleri yükleyin:  
+   npm install  
+5. Uygulamayı başlatın:  
+   npm run dev  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Not: Eğer Node.js veya npm yüklü değilse proje çalışmaz.  
