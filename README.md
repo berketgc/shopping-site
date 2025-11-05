@@ -1,4 +1,5 @@
 Shopping Site
+LİVE: https://shopping-site-six-sigma.vercel.app/
 
 React ve Tailwind CSS kullanılarak geliştirilmiş basit bir sanal market sitesi.  
 Ürün listeleme, kategori gösterimi ve modern bir arayüz içerir.
